@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/opt/homebrew/Caskroom/mambaforge/base/envs/aita_nlp/bin/python",
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "python.terminal.activateEnvironment": true
+}

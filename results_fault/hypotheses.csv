@@ -1,0 +1,5 @@
+id,hypothesis,test,estimate,ci_low,ci_high,p
+h1,men and women write about different topics,"chi-square, 14 df; estimate is cramer's v",0.09124828629001047,,,1.7253017979862556e-20
+h2,men and women get yta at different rates,"difference in yta rate, men minus women",0.09255892309363051,0.07989878919838175,0.105397579685284,9.871883973821491e-51
+h3,the yta difference remains after controlling for topic,"odds ratio, men vs women, same topic",1.8957558685725315,1.736874880412712,2.0691705279157597,1.5893654362488147e-46
+h4,yta rates differ across topics,"chi-square, 14 df; estimate is cramer's v",0.11662260140744424,,,4.6801628978565985e-136

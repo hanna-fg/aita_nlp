@@ -1,0 +1,16 @@
+# one environment for the whole project: conda env create -f environment.yml
+name: aita_nlp
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - scikit-learn
+  - nltk
+  - statsmodels
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - sentence-transformers

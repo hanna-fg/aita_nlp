@@ -1,0 +1,16 @@
+topic_name,n,yta_rate,accuracy,false_pos,false_neg
+0: play/game/playing,1389,0.255,0.587,0.459,0.28
+10: family/husband/kids,3143,0.186,0.727,0.223,0.493
+11: mom/dad/brother,6470,0.121,0.824,0.109,0.665
+12: wedding/sister/family,2286,0.212,0.696,0.275,0.412
+13: money/pay/job,3900,0.168,0.744,0.189,0.585
+14: school/class/room,3287,0.199,0.684,0.283,0.449
+1: work/job/working,2633,0.164,0.742,0.195,0.575
+2: friend/friends/boyfriend,5450,0.186,0.67,0.286,0.524
+3: food/dinner/night,3208,0.248,0.607,0.395,0.387
+4: car/drive/driving,1500,0.228,0.629,0.351,0.439
+5: asked/did/gift,2575,0.24,0.583,0.427,0.388
+6: dog/cat/dogs,1595,0.186,0.679,0.273,0.534
+7: friend/friends/people,8086,0.268,0.604,0.438,0.282
+8: house/apartment/door,1461,0.149,0.742,0.189,0.654
+9: room/food/clean,3017,0.2,0.675,0.293,0.452

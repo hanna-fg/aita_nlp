@@ -1,0 +1,16 @@
+topic,top_words,name,share
+0,"play, game, playing, games, birthday, friends, friend, x200b",0: play/game/playing,0.028
+1,"work, job, working, day, wife, week, boss, hours",1: work/job/working,0.053
+2,"friend, friends, boyfriend, day, asked, night, home, come",2: friend/friends/boyfriend,0.109
+3,"food, dinner, night, eat, day, make, people, home",3: food/dinner/night,0.064
+4,"car, drive, driving, home, parking, park, ride, way",4: car/drive/driving,0.03
+5,"asked, did, gift, im, people, went, thought, saying",5: asked/did/gift,0.052
+6,"dog, cat, dogs, cats, care, home, house, pet",6: dog/cat/dogs,0.032
+7,"friend, friends, people, talking, started, talk, things, did",7: friend/friends/people,0.162
+8,"house, apartment, door, live, moved, home, neighbor, living",8: house/apartment/door,0.029
+9,"room, food, clean, house, hair, stuff, eat, asked",9: room/food/clean,0.06
+10,"family, husband, kids, baby, wife, son, daughter, cousin",10: family/husband/kids,0.063
+11,"mom, dad, brother, sister, mother, parents, family, father",11: mom/dad/brother,0.129
+12,"wedding, sister, family, daughter, married, years, fiancé, parents",12: wedding/sister/family,0.046
+13,"money, pay, job, rent, paying, parents, paid, help",13: money/pay/job,0.078
+14,"school, class, room, phone, help, sleep, day, home",14: school/class/room,0.066

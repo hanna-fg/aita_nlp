@@ -1,0 +1,16 @@
+topic,top_words,name,share
+0,"money, pay, job, paid, paying, buy, help, years",0: money/pay/job,0.085
+1,"work, job, working, day, week, manager, boss, company",1: work/job/working,0.067
+2,"cat, sleep, night, bed, hair, morning, home, day",2: cat/sleep/night,0.032
+3,"food, eat, car, drive, dinner, make, eating, home",3: food/eat/car,0.046
+4,"kids, husband, wife, daughter, son, baby, child, family",4: kids/husband/wife,0.057
+5,"wedding, sister, family, fiancé, married, wear, dress, asked",5: wedding/sister/family,0.04
+6,"phone, watch, door, asked, watching, house, neighbor, movie",6: phone/watch/door,0.042
+7,"friend, friends, relationship, years, boyfriend, ex, best, months",7: friend/friends/relationship,0.123
+8,"school, help, bad, health, sister, things, mom, started",8: school/help/bad,0.065
+9,"friend, car, friends, went, asked, people, guy, did",9: friend/car/friends,0.073
+10,"room, house, apartment, roommate, clean, living, home, live",10: room/house/apartment,0.072
+11,"dog, dogs, gf, house, puppy, home, care, pet",11: dog/dogs/gf,0.023
+12,"mom, dad, brother, family, parents, sister, mother, father",12: mom/dad/brother,0.115
+13,"people, friends, friend, saying, things, group, play, game",13: people/friends/friend,0.106
+14,"birthday, party, day, christmas, trip, family, friends, gift",14: birthday/party/day,0.055

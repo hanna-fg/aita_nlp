@@ -1,0 +1,5 @@
+data/
+results/embeddings_*.npy
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
