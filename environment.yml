@@ -14,3 +14,7 @@ dependencies:
   - pip
   - pip:
       - sentence-transformers
+      - bertopic==0.17.4
+      - datasets==5.0.1
+      - gensim==4.4.0
+      - plotly
